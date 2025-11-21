@@ -1,2 +1,2 @@
-# couchbase_project
+# Project Proposal : Couchbase Implementation Demo
 This project samples the use and deployment of Couchbase in partial fulfillment of requirements for CSCI 112. 
